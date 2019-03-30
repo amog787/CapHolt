@@ -15,6 +15,80 @@
 		703C02D5224F513800F07F97 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 703C02D3224F513800F07F97 /* LaunchScreen.storyboard */; };
 		703C02E0224F513800F07F97 /* CapHoltSoundBoardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 703C02DF224F513800F07F97 /* CapHoltSoundBoardTests.swift */; };
 		703C02EB224F513800F07F97 /* CapHoltSoundBoardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 703C02EA224F513800F07F97 /* CapHoltSoundBoardUITests.swift */; };
+		703C02F9224F587900F07F97 /* HoltTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 703C02F8224F587900F07F97 /* HoltTableViewCell.swift */; };
+		703C0344224F750A00F07F97 /* Bold personality.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C02FB224F750A00F07F97 /* Bold personality.m4a */; };
+		703C0345224F750A00F07F97 /* Let's get that punk!.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C02FC224F750A00F07F97 /* Let's get that punk!.m4a */; };
+		703C0346224F750A00F07F97 /* Time to make daddy proud.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C02FD224F750A00F07F97 /* Time to make daddy proud.m4a */; };
+		703C0347224F750A00F07F97 /* I'm.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C02FE224F750A00F07F97 /* I'm.m4a */; };
+		703C0348224F750A00F07F97 /* What are you doing at Razzmataz.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C02FF224F750A00F07F97 /* What are you doing at Razzmataz.m4a */; };
+		703C0349224F750A00F07F97 /* Made no I birthed her.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0300224F750A00F07F97 /* Made no I birthed her.m4a */; };
+		703C034A224F750A00F07F97 /* But if you're here.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0301224F750A00F07F97 /* But if you're here.m4a */; };
+		703C034B224F750A00F07F97 /* Booone.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0302224F750A00F07F97 /* Booone.m4a */; };
+		703C034C224F750A00F07F97 /* Everything is garbage.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0303224F750A00F07F97 /* Everything is garbage.m4a */; };
+		703C034D224F750A00F07F97 /* Marco polo.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0304224F750A00F07F97 /* Marco polo.m4a */; };
+		703C034E224F750A00F07F97 /* Yes.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0305224F750A00F07F97 /* Yes.m4a */; };
+		703C034F224F750A00F07F97 /* Oh damn.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0306224F750A00F07F97 /* Oh damn.m4a */; };
+		703C0350224F750A00F07F97 /* I'd like to play.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0307224F750A00F07F97 /* I'd like to play.m4a */; };
+		703C0351224F750A00F07F97 /* Vindication.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0308224F750A00F07F97 /* Vindication.m4a */; };
+		703C0352224F750A00F07F97 /* Now put on a smile.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0309224F750A00F07F97 /* Now put on a smile.m4a */; };
+		703C0353224F750A00F07F97 /* BRB time.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C030A224F750A00F07F97 /* BRB time.m4a */; };
+		703C0354224F750A00F07F97 /* Funniest story.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C030B224F750A00F07F97 /* Funniest story.m4a */; };
+		703C0355224F750A00F07F97 /* Oppsie Doodle.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C030C224F750A00F07F97 /* Oppsie Doodle.m4a */; };
+		703C0356224F750A00F07F97 /* Is everything okay (brain).m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C030D224F750A00F07F97 /* Is everything okay (brain).m4a */; };
+		703C0357224F750A00F07F97 /* How dare you.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C030E224F750A00F07F97 /* How dare you.m4a */; };
+		703C0358224F750A00F07F97 /* Boost my bottom.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C030F224F750A00F07F97 /* Boost my bottom.m4a */; };
+		703C0359224F750A00F07F97 /* Painnnn.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0310224F750A00F07F97 /* Painnnn.m4a */; };
+		703C035A224F750A00F07F97 /* Bingpot.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0311224F750A00F07F97 /* Bingpot.m4a */; };
+		703C035B224F750A00F07F97 /* Cwazy Cupcakes.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0312224F750A00F07F97 /* Cwazy Cupcakes.m4a */; };
+		703C035C224F750A00F07F97 /* Here at the fun zone.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0313224F750A00F07F97 /* Here at the fun zone.m4a */; };
+		703C035D224F750A00F07F97 /* I am your superior officer.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0314224F750A00F07F97 /* I am your superior officer.m4a */; };
+		703C035E224F750A00F07F97 /* I just erased everything.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0315224F750A00F07F97 /* I just erased everything.m4a */; };
+		703C035F224F750A00F07F97 /* I have zero interest.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0316224F750A00F07F97 /* I have zero interest.m4a */; };
+		703C0360224F750A00F07F97 /* D-D-D-D-D-D-Derek.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0317224F750A00F07F97 /* D-D-D-D-D-D-Derek.m4a */; };
+		703C0361224F750A00F07F97 /* You embarrass yourself.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0318224F750A00F07F97 /* You embarrass yourself.m4a */; };
+		703C0362224F750A00F07F97 /* Marshedmallows.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0319224F750A00F07F97 /* Marshedmallows.m4a */; };
+		703C0363224F750A00F07F97 /* This is Balthaazar.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C031A224F750A00F07F97 /* This is Balthaazar.m4a */; };
+		703C0364224F750A00F07F97 /* Cowabunga.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C031B224F750A00F07F97 /* Cowabunga.m4a */; };
+		703C0365224F750A00F07F97 /* You've used my logic against me.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C031C224F750A00F07F97 /* You've used my logic against me.m4a */; };
+		703C0366224F750A00F07F97 /* Unleash the beast.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C031D224F750A00F07F97 /* Unleash the beast.m4a */; };
+		703C0367224F750A00F07F97 /* I gained 3 pounds in Paris.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C031E224F750A00F07F97 /* I gained 3 pounds in Paris.m4a */; };
+		703C0368224F750A00F07F97 /* Get some.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C031F224F750A00F07F97 /* Get some.m4a */; };
+		703C0369224F750A00F07F97 /* Funky Cold Medina.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0320224F750A00F07F97 /* Funky Cold Medina.m4a */; };
+		703C036A224F750A00F07F97 /* Dismissed.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0321224F750A00F07F97 /* Dismissed.m4a */; };
+		703C036B224F750A00F07F97 /* Robot.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0322224F750A00F07F97 /* Robot.m4a */; };
+		703C036C224F750A00F07F97 /* Velvet thunder.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0323224F750A00F07F97 /* Velvet thunder.m4a */; };
+		703C036D224F750A00F07F97 /* You call that dancing.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0324224F750A00F07F97 /* You call that dancing.m4a */; };
+		703C036E224F750A00F07F97 /* Hello Sexarella.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0325224F750A00F07F97 /* Hello Sexarella.m4a */; };
+		703C036F224F750A00F07F97 /* I've heard you saying that 162 times.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0326224F750A00F07F97 /* I've heard you saying that 162 times.m4a */; };
+		703C0370224F750A00F07F97 /* Cute little secret weapon.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0327224F750A00F07F97 /* Cute little secret weapon.m4a */; };
+		703C0371224F750A00F07F97 /* Raymond Holt.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0328224F750A00F07F97 /* Raymond Holt.m4a */; };
+		703C0372224F750A00F07F97 /* Situation diffused.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0329224F750A00F07F97 /* Situation diffused.m4a */; };
+		703C0373224F750A00F07F97 /* Never love anything.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C032A224F750A00F07F97 /* Never love anything.m4a */; };
+		703C0374224F750A00F07F97 /* Very cool.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C032B224F750A00F07F97 /* Very cool.m4a */; };
+		703C0375224F750A00F07F97 /* Is everything OK.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C032C224F750A00F07F97 /* Is everything OK.m4a */; };
+		703C0376224F750A00F07F97 /* Forced laughing.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C032D224F750A00F07F97 /* Forced laughing.m4a */; };
+		703C0377224F750A00F07F97 /* I was hula hooping.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C032E224F750A00F07F97 /* I was hula hooping.m4a */; };
+		703C0378224F750A00F07F97 /* You're not cheddar.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C032F224F750A00F07F97 /* You're not cheddar.m4a */; };
+		703C0379224F750A00F07F97 /* Peralta you're a genius.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0330224F750A00F07F97 /* Peralta you're a genius.m4a */; };
+		703C037A224F750A00F07F97 /* I've never been happier.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0331224F750A00F07F97 /* I've never been happier.m4a */; };
+		703C037B224F750A00F07F97 /* Huh.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0332224F750A00F07F97 /* Huh.m4a */; };
+		703C037C224F750A00F07F97 /* Get to work.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0333224F750A00F07F97 /* Get to work.m4a */; };
+		703C037D224F750A00F07F97 /* Yas queen.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0334224F750A00F07F97 /* Yas queen.m4a */; };
+		703C037E224F750A00F07F97 /* Wuntch time is over.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0335224F750A00F07F97 /* Wuntch time is over.m4a */; };
+		703C037F224F750A00F07F97 /* Talking raisin.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0336224F750A00F07F97 /* Talking raisin.m4a */; };
+		703C0380224F750A00F07F97 /* Right now.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0337224F750A00F07F97 /* Right now.m4a */; };
+		703C0381224F750A00F07F97 /* Yabba dabba doo.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0338224F750A00F07F97 /* Yabba dabba doo.m4a */; };
+		703C0382224F750A00F07F97 /* I'm diffusing a situation.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0339224F750A00F07F97 /* I'm diffusing a situation.m4a */; };
+		703C0383224F750A00F07F97 /* Dirtbag.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C033A224F750A00F07F97 /* Dirtbag.m4a */; };
+		703C0384224F750A00F07F97 /* The full bullpen.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C033B224F750A00F07F97 /* The full bullpen.m4a */; };
+		703C0385224F750A00F07F97 /* Time for the next level.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C033C224F750A00F07F97 /* Time for the next level.m4a */; };
+		703C0386224F750A00F07F97 /* This is.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C033D224F750A00F07F97 /* This is.m4a */; };
+		703C0387224F750A00F07F97 /* HOT DAMN .m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C033E224F750A00F07F97 /* HOT DAMN .m4a */; };
+		703C0388224F750A00F07F97 /* I'm a Curd-mudgeon.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C033F224F750A00F07F97 /* I'm a Curd-mudgeon.m4a */; };
+		703C0389224F750A00F07F97 /* Bone.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0340224F750A00F07F97 /* Bone.m4a */; };
+		703C038A224F750A00F07F97 /* Stop playing this inane garbage.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0341224F750A00F07F97 /* Stop playing this inane garbage.m4a */; };
+		703C038B224F750A00F07F97 /* Let's unleash hell.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0342224F750A00F07F97 /* Let's unleash hell.m4a */; };
+		703C038C224F750A00F07F97 /* Because no one will ever believe you.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 703C0343224F750A00F07F97 /* Because no one will ever believe you.m4a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +123,80 @@
 		703C02E6224F513800F07F97 /* CapHoltSoundBoardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CapHoltSoundBoardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		703C02EA224F513800F07F97 /* CapHoltSoundBoardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapHoltSoundBoardUITests.swift; sourceTree = "<group>"; };
 		703C02EC224F513800F07F97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		703C02F8224F587900F07F97 /* HoltTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HoltTableViewCell.swift; sourceTree = "<group>"; };
+		703C02FB224F750A00F07F97 /* Bold personality.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Bold personality.m4a"; sourceTree = "<group>"; };
+		703C02FC224F750A00F07F97 /* Let's get that punk!.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Let's get that punk!.m4a"; sourceTree = "<group>"; };
+		703C02FD224F750A00F07F97 /* Time to make daddy proud.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Time to make daddy proud.m4a"; sourceTree = "<group>"; };
+		703C02FE224F750A00F07F97 /* I'm.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "I'm.m4a"; sourceTree = "<group>"; };
+		703C02FF224F750A00F07F97 /* What are you doing at Razzmataz.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "What are you doing at Razzmataz.m4a"; sourceTree = "<group>"; };
+		703C0300224F750A00F07F97 /* Made no I birthed her.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Made no I birthed her.m4a"; sourceTree = "<group>"; };
+		703C0301224F750A00F07F97 /* But if you're here.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "But if you're here.m4a"; sourceTree = "<group>"; };
+		703C0302224F750A00F07F97 /* Booone.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Booone.m4a; sourceTree = "<group>"; };
+		703C0303224F750A00F07F97 /* Everything is garbage.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Everything is garbage.m4a"; sourceTree = "<group>"; };
+		703C0304224F750A00F07F97 /* Marco polo.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Marco polo.m4a"; sourceTree = "<group>"; };
+		703C0305224F750A00F07F97 /* Yes.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Yes.m4a; sourceTree = "<group>"; };
+		703C0306224F750A00F07F97 /* Oh damn.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Oh damn.m4a"; sourceTree = "<group>"; };
+		703C0307224F750A00F07F97 /* I'd like to play.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "I'd like to play.m4a"; sourceTree = "<group>"; };
+		703C0308224F750A00F07F97 /* Vindication.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Vindication.m4a; sourceTree = "<group>"; };
+		703C0309224F750A00F07F97 /* Now put on a smile.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Now put on a smile.m4a"; sourceTree = "<group>"; };
+		703C030A224F750A00F07F97 /* BRB time.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BRB time.m4a"; sourceTree = "<group>"; };
+		703C030B224F750A00F07F97 /* Funniest story.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Funniest story.m4a"; sourceTree = "<group>"; };
+		703C030C224F750A00F07F97 /* Oppsie Doodle.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Oppsie Doodle.m4a"; sourceTree = "<group>"; };
+		703C030D224F750A00F07F97 /* Is everything okay (brain).m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Is everything okay (brain).m4a"; sourceTree = "<group>"; };
+		703C030E224F750A00F07F97 /* How dare you.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "How dare you.m4a"; sourceTree = "<group>"; };
+		703C030F224F750A00F07F97 /* Boost my bottom.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Boost my bottom.m4a"; sourceTree = "<group>"; };
+		703C0310224F750A00F07F97 /* Painnnn.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Painnnn.m4a; sourceTree = "<group>"; };
+		703C0311224F750A00F07F97 /* Bingpot.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Bingpot.m4a; sourceTree = "<group>"; };
+		703C0312224F750A00F07F97 /* Cwazy Cupcakes.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cwazy Cupcakes.m4a"; sourceTree = "<group>"; };
+		703C0313224F750A00F07F97 /* Here at the fun zone.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Here at the fun zone.m4a"; sourceTree = "<group>"; };
+		703C0314224F750A00F07F97 /* I am your superior officer.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "I am your superior officer.m4a"; sourceTree = "<group>"; };
+		703C0315224F750A00F07F97 /* I just erased everything.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "I just erased everything.m4a"; sourceTree = "<group>"; };
+		703C0316224F750A00F07F97 /* I have zero interest.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "I have zero interest.m4a"; sourceTree = "<group>"; };
+		703C0317224F750A00F07F97 /* D-D-D-D-D-D-Derek.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "D-D-D-D-D-D-Derek.m4a"; sourceTree = "<group>"; };
+		703C0318224F750A00F07F97 /* You embarrass yourself.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "You embarrass yourself.m4a"; sourceTree = "<group>"; };
+		703C0319224F750A00F07F97 /* Marshedmallows.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Marshedmallows.m4a; sourceTree = "<group>"; };
+		703C031A224F750A00F07F97 /* This is Balthaazar.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "This is Balthaazar.m4a"; sourceTree = "<group>"; };
+		703C031B224F750A00F07F97 /* Cowabunga.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Cowabunga.m4a; sourceTree = "<group>"; };
+		703C031C224F750A00F07F97 /* You've used my logic against me.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "You've used my logic against me.m4a"; sourceTree = "<group>"; };
+		703C031D224F750A00F07F97 /* Unleash the beast.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Unleash the beast.m4a"; sourceTree = "<group>"; };
+		703C031E224F750A00F07F97 /* I gained 3 pounds in Paris.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "I gained 3 pounds in Paris.m4a"; sourceTree = "<group>"; };
+		703C031F224F750A00F07F97 /* Get some.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Get some.m4a"; sourceTree = "<group>"; };
+		703C0320224F750A00F07F97 /* Funky Cold Medina.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Funky Cold Medina.m4a"; sourceTree = "<group>"; };
+		703C0321224F750A00F07F97 /* Dismissed.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Dismissed.m4a; sourceTree = "<group>"; };
+		703C0322224F750A00F07F97 /* Robot.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Robot.m4a; sourceTree = "<group>"; };
+		703C0323224F750A00F07F97 /* Velvet thunder.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Velvet thunder.m4a"; sourceTree = "<group>"; };
+		703C0324224F750A00F07F97 /* You call that dancing.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "You call that dancing.m4a"; sourceTree = "<group>"; };
+		703C0325224F750A00F07F97 /* Hello Sexarella.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Hello Sexarella.m4a"; sourceTree = "<group>"; };
+		703C0326224F750A00F07F97 /* I've heard you saying that 162 times.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "I've heard you saying that 162 times.m4a"; sourceTree = "<group>"; };
+		703C0327224F750A00F07F97 /* Cute little secret weapon.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cute little secret weapon.m4a"; sourceTree = "<group>"; };
+		703C0328224F750A00F07F97 /* Raymond Holt.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raymond Holt.m4a"; sourceTree = "<group>"; };
+		703C0329224F750A00F07F97 /* Situation diffused.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Situation diffused.m4a"; sourceTree = "<group>"; };
+		703C032A224F750A00F07F97 /* Never love anything.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Never love anything.m4a"; sourceTree = "<group>"; };
+		703C032B224F750A00F07F97 /* Very cool.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Very cool.m4a"; sourceTree = "<group>"; };
+		703C032C224F750A00F07F97 /* Is everything OK.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Is everything OK.m4a"; sourceTree = "<group>"; };
+		703C032D224F750A00F07F97 /* Forced laughing.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Forced laughing.m4a"; sourceTree = "<group>"; };
+		703C032E224F750A00F07F97 /* I was hula hooping.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "I was hula hooping.m4a"; sourceTree = "<group>"; };
+		703C032F224F750A00F07F97 /* You're not cheddar.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "You're not cheddar.m4a"; sourceTree = "<group>"; };
+		703C0330224F750A00F07F97 /* Peralta you're a genius.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Peralta you're a genius.m4a"; sourceTree = "<group>"; };
+		703C0331224F750A00F07F97 /* I've never been happier.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "I've never been happier.m4a"; sourceTree = "<group>"; };
+		703C0332224F750A00F07F97 /* Huh.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Huh.m4a; sourceTree = "<group>"; };
+		703C0333224F750A00F07F97 /* Get to work.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Get to work.m4a"; sourceTree = "<group>"; };
+		703C0334224F750A00F07F97 /* Yas queen.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Yas queen.m4a"; sourceTree = "<group>"; };
+		703C0335224F750A00F07F97 /* Wuntch time is over.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Wuntch time is over.m4a"; sourceTree = "<group>"; };
+		703C0336224F750A00F07F97 /* Talking raisin.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Talking raisin.m4a"; sourceTree = "<group>"; };
+		703C0337224F750A00F07F97 /* Right now.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Right now.m4a"; sourceTree = "<group>"; };
+		703C0338224F750A00F07F97 /* Yabba dabba doo.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Yabba dabba doo.m4a"; sourceTree = "<group>"; };
+		703C0339224F750A00F07F97 /* I'm diffusing a situation.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "I'm diffusing a situation.m4a"; sourceTree = "<group>"; };
+		703C033A224F750A00F07F97 /* Dirtbag.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Dirtbag.m4a; sourceTree = "<group>"; };
+		703C033B224F750A00F07F97 /* The full bullpen.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "The full bullpen.m4a"; sourceTree = "<group>"; };
+		703C033C224F750A00F07F97 /* Time for the next level.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Time for the next level.m4a"; sourceTree = "<group>"; };
+		703C033D224F750A00F07F97 /* This is.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "This is.m4a"; sourceTree = "<group>"; };
+		703C033E224F750A00F07F97 /* HOT DAMN .m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HOT DAMN .m4a"; sourceTree = "<group>"; };
+		703C033F224F750A00F07F97 /* I'm a Curd-mudgeon.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "I'm a Curd-mudgeon.m4a"; sourceTree = "<group>"; };
+		703C0340224F750A00F07F97 /* Bone.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Bone.m4a; sourceTree = "<group>"; };
+		703C0341224F750A00F07F97 /* Stop playing this inane garbage.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stop playing this inane garbage.m4a"; sourceTree = "<group>"; };
+		703C0342224F750A00F07F97 /* Let's unleash hell.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Let's unleash hell.m4a"; sourceTree = "<group>"; };
+		703C0343224F750A00F07F97 /* Because no one will ever believe you.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Because no one will ever believe you.m4a"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +249,9 @@
 			children = (
 				703C02C7224F513700F07F97 /* AppDelegate.swift */,
 				703C02C9224F513700F07F97 /* ViewController.swift */,
+				703C02FA224F750900F07F97 /* CaptainHoltSounds */,
 				703C02CB224F513700F07F97 /* Main.storyboard */,
+				703C02F8224F587900F07F97 /* HoltTableViewCell.swift */,
 				703C02D1224F513800F07F97 /* Assets.xcassets */,
 				703C02D3224F513800F07F97 /* LaunchScreen.storyboard */,
 				703C02D6224F513800F07F97 /* Info.plist */,
@@ -126,6 +276,86 @@
 				703C02EC224F513800F07F97 /* Info.plist */,
 			);
 			path = CapHoltSoundBoardUITests;
+			sourceTree = "<group>";
+		};
+		703C02FA224F750900F07F97 /* CaptainHoltSounds */ = {
+			isa = PBXGroup;
+			children = (
+				703C02FB224F750A00F07F97 /* Bold personality.m4a */,
+				703C02FC224F750A00F07F97 /* Let's get that punk!.m4a */,
+				703C02FD224F750A00F07F97 /* Time to make daddy proud.m4a */,
+				703C02FE224F750A00F07F97 /* I'm.m4a */,
+				703C02FF224F750A00F07F97 /* What are you doing at Razzmataz.m4a */,
+				703C0300224F750A00F07F97 /* Made no I birthed her.m4a */,
+				703C0301224F750A00F07F97 /* But if you're here.m4a */,
+				703C0302224F750A00F07F97 /* Booone.m4a */,
+				703C0303224F750A00F07F97 /* Everything is garbage.m4a */,
+				703C0304224F750A00F07F97 /* Marco polo.m4a */,
+				703C0305224F750A00F07F97 /* Yes.m4a */,
+				703C0306224F750A00F07F97 /* Oh damn.m4a */,
+				703C0307224F750A00F07F97 /* I'd like to play.m4a */,
+				703C0308224F750A00F07F97 /* Vindication.m4a */,
+				703C0309224F750A00F07F97 /* Now put on a smile.m4a */,
+				703C030A224F750A00F07F97 /* BRB time.m4a */,
+				703C030B224F750A00F07F97 /* Funniest story.m4a */,
+				703C030C224F750A00F07F97 /* Oppsie Doodle.m4a */,
+				703C030D224F750A00F07F97 /* Is everything okay (brain).m4a */,
+				703C030E224F750A00F07F97 /* How dare you.m4a */,
+				703C030F224F750A00F07F97 /* Boost my bottom.m4a */,
+				703C0310224F750A00F07F97 /* Painnnn.m4a */,
+				703C0311224F750A00F07F97 /* Bingpot.m4a */,
+				703C0312224F750A00F07F97 /* Cwazy Cupcakes.m4a */,
+				703C0313224F750A00F07F97 /* Here at the fun zone.m4a */,
+				703C0314224F750A00F07F97 /* I am your superior officer.m4a */,
+				703C0315224F750A00F07F97 /* I just erased everything.m4a */,
+				703C0316224F750A00F07F97 /* I have zero interest.m4a */,
+				703C0317224F750A00F07F97 /* D-D-D-D-D-D-Derek.m4a */,
+				703C0318224F750A00F07F97 /* You embarrass yourself.m4a */,
+				703C0319224F750A00F07F97 /* Marshedmallows.m4a */,
+				703C031A224F750A00F07F97 /* This is Balthaazar.m4a */,
+				703C031B224F750A00F07F97 /* Cowabunga.m4a */,
+				703C031C224F750A00F07F97 /* You've used my logic against me.m4a */,
+				703C031D224F750A00F07F97 /* Unleash the beast.m4a */,
+				703C031E224F750A00F07F97 /* I gained 3 pounds in Paris.m4a */,
+				703C031F224F750A00F07F97 /* Get some.m4a */,
+				703C0320224F750A00F07F97 /* Funky Cold Medina.m4a */,
+				703C0321224F750A00F07F97 /* Dismissed.m4a */,
+				703C0322224F750A00F07F97 /* Robot.m4a */,
+				703C0323224F750A00F07F97 /* Velvet thunder.m4a */,
+				703C0324224F750A00F07F97 /* You call that dancing.m4a */,
+				703C0325224F750A00F07F97 /* Hello Sexarella.m4a */,
+				703C0326224F750A00F07F97 /* I've heard you saying that 162 times.m4a */,
+				703C0327224F750A00F07F97 /* Cute little secret weapon.m4a */,
+				703C0328224F750A00F07F97 /* Raymond Holt.m4a */,
+				703C0329224F750A00F07F97 /* Situation diffused.m4a */,
+				703C032A224F750A00F07F97 /* Never love anything.m4a */,
+				703C032B224F750A00F07F97 /* Very cool.m4a */,
+				703C032C224F750A00F07F97 /* Is everything OK.m4a */,
+				703C032D224F750A00F07F97 /* Forced laughing.m4a */,
+				703C032E224F750A00F07F97 /* I was hula hooping.m4a */,
+				703C032F224F750A00F07F97 /* You're not cheddar.m4a */,
+				703C0330224F750A00F07F97 /* Peralta you're a genius.m4a */,
+				703C0331224F750A00F07F97 /* I've never been happier.m4a */,
+				703C0332224F750A00F07F97 /* Huh.m4a */,
+				703C0333224F750A00F07F97 /* Get to work.m4a */,
+				703C0334224F750A00F07F97 /* Yas queen.m4a */,
+				703C0335224F750A00F07F97 /* Wuntch time is over.m4a */,
+				703C0336224F750A00F07F97 /* Talking raisin.m4a */,
+				703C0337224F750A00F07F97 /* Right now.m4a */,
+				703C0338224F750A00F07F97 /* Yabba dabba doo.m4a */,
+				703C0339224F750A00F07F97 /* I'm diffusing a situation.m4a */,
+				703C033A224F750A00F07F97 /* Dirtbag.m4a */,
+				703C033B224F750A00F07F97 /* The full bullpen.m4a */,
+				703C033C224F750A00F07F97 /* Time for the next level.m4a */,
+				703C033D224F750A00F07F97 /* This is.m4a */,
+				703C033E224F750A00F07F97 /* HOT DAMN .m4a */,
+				703C033F224F750A00F07F97 /* I'm a Curd-mudgeon.m4a */,
+				703C0340224F750A00F07F97 /* Bone.m4a */,
+				703C0341224F750A00F07F97 /* Stop playing this inane garbage.m4a */,
+				703C0342224F750A00F07F97 /* Let's unleash hell.m4a */,
+				703C0343224F750A00F07F97 /* Because no one will ever believe you.m4a */,
+			);
+			path = CaptainHoltSounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,9 +462,82 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				703C036E224F750A00F07F97 /* Hello Sexarella.m4a in Resources */,
+				703C034F224F750A00F07F97 /* Oh damn.m4a in Resources */,
+				703C0367224F750A00F07F97 /* I gained 3 pounds in Paris.m4a in Resources */,
+				703C037B224F750A00F07F97 /* Huh.m4a in Resources */,
+				703C0376224F750A00F07F97 /* Forced laughing.m4a in Resources */,
+				703C034B224F750A00F07F97 /* Booone.m4a in Resources */,
+				703C0388224F750A00F07F97 /* I'm a Curd-mudgeon.m4a in Resources */,
+				703C0382224F750A00F07F97 /* I'm diffusing a situation.m4a in Resources */,
+				703C0356224F750A00F07F97 /* Is everything okay (brain).m4a in Resources */,
+				703C0371224F750A00F07F97 /* Raymond Holt.m4a in Resources */,
+				703C035C224F750A00F07F97 /* Here at the fun zone.m4a in Resources */,
+				703C035B224F750A00F07F97 /* Cwazy Cupcakes.m4a in Resources */,
+				703C0347224F750A00F07F97 /* I'm.m4a in Resources */,
+				703C0354224F750A00F07F97 /* Funniest story.m4a in Resources */,
+				703C038C224F750A00F07F97 /* Because no one will ever believe you.m4a in Resources */,
+				703C0353224F750A00F07F97 /* BRB time.m4a in Resources */,
+				703C0385224F750A00F07F97 /* Time for the next level.m4a in Resources */,
+				703C0364224F750A00F07F97 /* Cowabunga.m4a in Resources */,
+				703C0366224F750A00F07F97 /* Unleash the beast.m4a in Resources */,
+				703C034A224F750A00F07F97 /* But if you're here.m4a in Resources */,
+				703C034C224F750A00F07F97 /* Everything is garbage.m4a in Resources */,
+				703C035E224F750A00F07F97 /* I just erased everything.m4a in Resources */,
+				703C0351224F750A00F07F97 /* Vindication.m4a in Resources */,
+				703C0346224F750A00F07F97 /* Time to make daddy proud.m4a in Resources */,
+				703C0375224F750A00F07F97 /* Is everything OK.m4a in Resources */,
+				703C0368224F750A00F07F97 /* Get some.m4a in Resources */,
+				703C0383224F750A00F07F97 /* Dirtbag.m4a in Resources */,
+				703C0369224F750A00F07F97 /* Funky Cold Medina.m4a in Resources */,
+				703C0350224F750A00F07F97 /* I'd like to play.m4a in Resources */,
+				703C0361224F750A00F07F97 /* You embarrass yourself.m4a in Resources */,
+				703C0377224F750A00F07F97 /* I was hula hooping.m4a in Resources */,
 				703C02D5224F513800F07F97 /* LaunchScreen.storyboard in Resources */,
+				703C0349224F750A00F07F97 /* Made no I birthed her.m4a in Resources */,
+				703C034D224F750A00F07F97 /* Marco polo.m4a in Resources */,
+				703C0387224F750A00F07F97 /* HOT DAMN .m4a in Resources */,
+				703C0379224F750A00F07F97 /* Peralta you're a genius.m4a in Resources */,
+				703C0386224F750A00F07F97 /* This is.m4a in Resources */,
+				703C035A224F750A00F07F97 /* Bingpot.m4a in Resources */,
+				703C036D224F750A00F07F97 /* You call that dancing.m4a in Resources */,
+				703C0359224F750A00F07F97 /* Painnnn.m4a in Resources */,
+				703C037C224F750A00F07F97 /* Get to work.m4a in Resources */,
+				703C0355224F750A00F07F97 /* Oppsie Doodle.m4a in Resources */,
+				703C0370224F750A00F07F97 /* Cute little secret weapon.m4a in Resources */,
+				703C035F224F750A00F07F97 /* I have zero interest.m4a in Resources */,
+				703C037E224F750A00F07F97 /* Wuntch time is over.m4a in Resources */,
+				703C035D224F750A00F07F97 /* I am your superior officer.m4a in Resources */,
+				703C0372224F750A00F07F97 /* Situation diffused.m4a in Resources */,
+				703C0360224F750A00F07F97 /* D-D-D-D-D-D-Derek.m4a in Resources */,
+				703C037F224F750A00F07F97 /* Talking raisin.m4a in Resources */,
+				703C0378224F750A00F07F97 /* You're not cheddar.m4a in Resources */,
+				703C0345224F750A00F07F97 /* Let's get that punk!.m4a in Resources */,
+				703C0384224F750A00F07F97 /* The full bullpen.m4a in Resources */,
 				703C02D2224F513800F07F97 /* Assets.xcassets in Resources */,
+				703C036B224F750A00F07F97 /* Robot.m4a in Resources */,
+				703C038A224F750A00F07F97 /* Stop playing this inane garbage.m4a in Resources */,
 				703C02CD224F513700F07F97 /* Main.storyboard in Resources */,
+				703C038B224F750A00F07F97 /* Let's unleash hell.m4a in Resources */,
+				703C0380224F750A00F07F97 /* Right now.m4a in Resources */,
+				703C0365224F750A00F07F97 /* You've used my logic against me.m4a in Resources */,
+				703C036C224F750A00F07F97 /* Velvet thunder.m4a in Resources */,
+				703C0389224F750A00F07F97 /* Bone.m4a in Resources */,
+				703C037A224F750A00F07F97 /* I've never been happier.m4a in Resources */,
+				703C0374224F750A00F07F97 /* Very cool.m4a in Resources */,
+				703C0363224F750A00F07F97 /* This is Balthaazar.m4a in Resources */,
+				703C0348224F750A00F07F97 /* What are you doing at Razzmataz.m4a in Resources */,
+				703C034E224F750A00F07F97 /* Yes.m4a in Resources */,
+				703C036A224F750A00F07F97 /* Dismissed.m4a in Resources */,
+				703C0344224F750A00F07F97 /* Bold personality.m4a in Resources */,
+				703C037D224F750A00F07F97 /* Yas queen.m4a in Resources */,
+				703C0358224F750A00F07F97 /* Boost my bottom.m4a in Resources */,
+				703C0362224F750A00F07F97 /* Marshedmallows.m4a in Resources */,
+				703C0352224F750A00F07F97 /* Now put on a smile.m4a in Resources */,
+				703C0373224F750A00F07F97 /* Never love anything.m4a in Resources */,
+				703C0381224F750A00F07F97 /* Yabba dabba doo.m4a in Resources */,
+				703C0357224F750A00F07F97 /* How dare you.m4a in Resources */,
+				703C036F224F750A00F07F97 /* I've heard you saying that 162 times.m4a in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,6 +562,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				703C02F9224F587900F07F97 /* HoltTableViewCell.swift in Sources */,
 				703C02D0224F513700F07F97 /* CapHoltSoundBoard.xcdatamodeld in Sources */,
 				703C02CA224F513700F07F97 /* ViewController.swift in Sources */,
 				703C02C8224F513700F07F97 /* AppDelegate.swift in Sources */,
