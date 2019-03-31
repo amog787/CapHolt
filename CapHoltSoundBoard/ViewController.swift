@@ -7,10 +7,12 @@
 //
 
 import UIKit
+import AVFoundation
 
 class ViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
     
     var sounds = [NSString]() //["one","two","three"]
+    var audioPlayer: AVAudioPlayer?
     
     func numberOfSections(in tableView: UITableView) -> Int {
         return 1
@@ -28,7 +30,15 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     }
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        
+        do{
+            if let fileURL = Bundle.main.path(forResource: "\(sounds[indexPath.row])", ofType: "m4a")
+            {
+                audioPlayer = try AVAudioPlayer(contentsOf: URL(fileURLWithPath: fileURL))
+                audioPlayer?.play()
+            }
+        }catch{
+            
+        }
     }
     
     override func viewDidLoad() {

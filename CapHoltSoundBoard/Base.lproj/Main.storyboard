@@ -73,6 +73,10 @@
                                             <color key="backgroundColor" red="0.31146847080000001" green="0.50344073830000002" blue="0.34979197280000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         </tableViewCellContentView>
                                         <color key="backgroundColor" red="0.31146847080000001" green="0.50344073830000002" blue="0.34979197280000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <accessibility key="accessibilityConfiguration">
+                                            <accessibilityTraits key="traits" playsSound="YES" notEnabled="YES"/>
+                                            <bool key="isElement" value="NO"/>
+                                        </accessibility>
                                         <connections>
                                             <outlet property="name" destination="0ng-2Y-xuN" id="Pbf-Jf-9Dp"/>
                                             <outlet property="num" destination="HWt-kc-v8d" id="mLu-7v-gog"/>
